@@ -14,8 +14,8 @@ x-alexaRank: ""
 tags:
 - UK Banks
 - ATMs
-created: "2018-03-11"
-modified: "2018-03-11"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/ulster-bank/master/_listings/ulster-bank/apis.yaml
 specificationVersion: "0.14"
 apis:
