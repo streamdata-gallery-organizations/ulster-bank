@@ -32,6 +32,8 @@ paths:
         200:
           description: OK
       tags:
+      - Banks
+      - Banking
       - ATMs
   branches/:
     get:
@@ -44,6 +46,8 @@ paths:
         200:
           description: OK
       tags:
+      - Banks
+      - Banking
       - Branches
   personal-current-accounts/:
     get:
@@ -56,6 +60,8 @@ paths:
         200:
           description: OK
       tags:
+      - Banks
+      - Banking
       - Current
       - Personal
       - Accounts
@@ -70,6 +76,8 @@ paths:
         200:
           description: OK
       tags:
+      - Banks
+      - Banking
       - Current
       - Business
       - Accounts
@@ -84,6 +92,8 @@ paths:
         200:
           description: OK
       tags:
+      - Banks
+      - Banking
       - Unsecured
       - SME
       - Loans

@@ -32,6 +32,8 @@ paths:
         200:
           description: OK
       tags:
+      - Banks
+      - Banking
       - ATMs
 x-streamrank:
   polling_total_time_average: 0
